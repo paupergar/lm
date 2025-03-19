@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Let's Play! - Actividades Extraescolares</title>
+    <link>https://tuusuario.github.io/tu_proyecto/</link>
+    <description>Noticias y novedades de Let's Play! - Empresa de actividades extraescolares</description>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 20 Mar 2025 12:00:00 +0000</lastBuildDate>
+
+    <!-- Ítem 1: Sección Conócenos -->
+    <item>
+      <title>¿Quiénes somos?</title>
+      <link>https://tuusuario.github.io/tu_proyecto/index.html#conocenos</link>
+      <description>Conoce la historia y experiencia de Let's Play! en el sector educativo.</description>
+      <pubDate>Sun, 20 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Ítem 2: Servicios -->
+    <item>
+      <title>Servicios</title>
+      <link>https://tuusuario.github.io/tu_proyecto/index.html#servicios</link>
+      <description>Descubre los servicios de conciliación familiar que ofrecemos.</description>
+      <pubDate>Sun, 20 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Ítem 3: Actividades Extraescolares -->
+    <item>
+      <title>Actividades Extraescolares</title>
+      <link>https://tuusuario.github.io/tu_proyecto/index.html#actividades</link>
+      <description>Consulta la lista de actividades extraescolares disponibles.</description>
+      <pubDate>Sun, 20 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Ítem 4: Horarios -->
+    <item>
+      <title>Horarios</title>
+      <link>https://tuusuario.github.io/tu_proyecto/index.html#horarios</link>
+      <description>Consulta nuestros horarios para elegir el que mejor se adapte a ti.</description>
+      <pubDate>Sun, 20 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Ítem 5: Blog -->
+    <item>
+      <title>Blog</title>
+      <link>https://tuusuario.github.io/tu_proyecto/index.html#blog</link>
+      <description>Lee las últimas novedades sobre actividades y excursiones.</description>
+      <pubDate>Sun, 20 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Ítem 6: Newsletter -->
+    <item>
+      <title>Newsletter</title>
+      <link>https://tuusuario.github.io/tu_proyecto/index.html#newsletter</link>
+      <description>Suscríbete a nuestra newsletter para recibir todas las novedades.</description>
+      <pubDate>Sun, 20 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
