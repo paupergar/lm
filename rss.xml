@@ -5,14 +5,12 @@
     <link>https://paupergar.github.io/lm/</link>
     <description>Noticias y novedades de Let's Play! - Empresa de actividades extraescolares</description>
     <language>es-es</language>
-    <lastBuildDate>Sun, 20 Mar 2025 12:00:00 +0000</lastBuildDate>
 
     <!-- Ítem 1: Sección Conócenos -->
     <item>
       <title>¿Quiénes somos?</title>
       <link>https://paupergar.github.io/lm/index.html#conocenos</link>
       <description>Conoce la historia y experiencia de Let's Play! en el sector educativo.</description>
-      <pubDate>Sun, 20 Mar 2025 12:00:00 +0000</pubDate>
     </item>
 
     <!-- Ítem 2: Servicios -->
